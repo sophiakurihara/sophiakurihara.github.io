@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 ## About Me
+Hi, I'm Sophia
 ## Markdown
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

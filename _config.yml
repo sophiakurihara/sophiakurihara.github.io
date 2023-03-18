@@ -102,7 +102,7 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-
+  
 domain: sophiakurihara.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://sophiakurihara.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 

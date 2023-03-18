@@ -22,6 +22,7 @@ twitter_username: 'sophieafk'
 github_username: 'sophiakurihara'
 medium_username: 'blog.kuriharasophia.com'
 linkedin_username: 'sophiakurihara'
+section_title: 'Latest Work'
 
 # Build settings
 markdown: kramdown

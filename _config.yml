@@ -16,8 +16,8 @@
 title: "Hi, I'm Sophia Kurihara."
 email: 'kuriharasophia@gmail.com'
 description: "I'm a Technical Writer specializing in UX and Learning Experience Design."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kuriharasophia.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: "https://sophiakurihara.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'sophieafk'
 github_username: 'sophiakurihara'
 medium_username: 'blog.kuriharasophia.com'
@@ -100,10 +100,9 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/contact', text: 'Contact'}
 
 domain: sophiakurihara.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://sophiakurihara.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /   # place folder name if the site is served in a subfolder
-remote_theme: phantom
+
 

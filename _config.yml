@@ -23,7 +23,7 @@ github_username: 'sophiakurihara'
 medium_username: 'blog.kuriharasophia.com'
 linkedin_username: 'sophiakurihara'
 section_title: 'Latest Work'
-section_subtitle: 'Here are some of my recent projects:
+section_subtitle: 'Here are some of my recent projects:'
 
 # Build settings
 markdown: kramdown
